@@ -10,14 +10,21 @@ Model training and evaluation with high accuracy
 
 **Project Workflow**
 
-Data Collection: Gathered text data from publicly available sources (e.g., Twitter, movie reviews).
-Data Preprocessing: Includes tokenization, stop-word removal, lemmatization, and vectorization (e.g., TF-IDF).
-Model Development: Trained classification models like Logistic Regression, Naive Bayes, and Transformers.
-Evaluation: Metrics include accuracy, precision, recall, and F1-score.
-Tools and Technologies
-Programming Language: Python
-Libraries: NLTK, Scikit-learn, TensorFlow/PyTorch, Matplotlib
-Data Handling: Pandas, NumPy
+**Data Collection:** Gathered text data from publicly available sources (e.g., Twitter, movie reviews).
+
+**Data Preprocessing:** Includes tokenization, stop-word removal, lemmatization, and vectorization (e.g., TF-IDF).
+
+**Model Development:** Trained classification models like Logistic Regression, Naive Bayes, and Transformers.
+
+**Evaluation:** Metrics include accuracy, precision, recall, and F1-score.
+
+**Tools and Technologies**
+
+**Programming Language:** Python
+
+**Libraries:** NLTK, Scikit-learn, TensorFlow/PyTorch, Matplotlib
+
+**Data Handling:** Pandas, NumPy
 
 **Results**
 
